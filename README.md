@@ -16,19 +16,3 @@ Laravel 11 - PHP Framework
 Blade Template - Template Engine
 Tailwind CSS - CSS Framework
 Font Awesome - Icon Library
-
-📁 Struktur File
-├── routes/
-│   └── web.php
-├── app/Http/Controllers/
-│   └── PageController.php
-├── resources/views/
-│   ├── layouts/
-│   │   └── app.blade.php
-│   ├── components/
-│   │   ├── navbar.blade.php
-│   │   └── footer.blade.php
-│   ├── login.blade.php
-│   ├── dashboard.blade.php
-│   ├── pengelolaan.blade.php
-│   └── profile.blade.php
